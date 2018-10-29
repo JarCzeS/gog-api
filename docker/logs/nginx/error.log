@@ -1,0 +1,2 @@
+2018/10/29 08:39:32 [emerg] 1#1: unknown directive "listen:" in /etc/nginx/conf.d/symfony.conf:2
+2018/10/29 08:41:11 [emerg] 1#1: unknown directive "listen:" in /etc/nginx/conf.d/symfony.conf:2
